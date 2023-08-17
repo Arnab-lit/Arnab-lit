@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arnab-lit
+- 👋 Hi, I’m Arnab Das
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me daniyelarnab824@gmail.com
 
